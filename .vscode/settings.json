@@ -1,0 +1,5 @@
+{
+	"python.analysis.typeCheckingMode": "basic",
+	"sqltools.useNodeRuntime": true,
+	"sqltools.connections": []
+}

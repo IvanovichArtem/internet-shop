@@ -1,0 +1,70 @@
+[
+	{
+		"model": "products.productcategory",
+		"pk": 1,
+		"fields": {
+			"name": "Clothes",
+			"description": ""
+		}
+	},
+	{
+		"model": "products.productcategory",
+		"pk": 2,
+		"fields": {
+			"name": "Shoes",
+			"description": ""
+		}
+	},
+	{
+		"model": "products.productcategory",
+		"pk": 3,
+		"fields": {
+			"name": "Hat",
+			"description": ""
+		}
+	},
+	{
+		"model": "products.productcategory",
+		"pk": 4,
+		"fields": {
+			"name": "Gifts",
+			"description": ""
+		}
+	},
+	{
+		"model": "products.product",
+		"pk": 1,
+		"fields": {
+			"name": "Product3",
+			"description": "Des3",
+			"price": "432.00",
+			"quantity": 1,
+			"image": "products_images/Adidas-hoodie_8eFkufh.png",
+			"category": 1
+		}
+	},
+	{
+		"model": "products.product",
+		"pk": 2,
+		"fields": {
+			"name": "Product2",
+			"description": "Des2",
+			"price": "2.00",
+			"quantity": 22,
+			"image": "products_images/Black-Dr-Martens-shoes.png",
+			"category": 2
+		}
+	},
+	{
+		"model": "products.product",
+		"pk": 3,
+		"fields": {
+			"name": "Product1",
+			"description": "Des1",
+			"price": "231.00",
+			"quantity": 1432,
+			"image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
+			"category": 3
+		}
+	}
+]
